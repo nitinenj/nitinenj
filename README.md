@@ -3,7 +3,7 @@
     Broadening my Computer Science knowledge. I want to dabble in Foundational Programming,
     Cybersecurity, Machine Learning, and explore the massive ocean of Computer Science.
 - 🌱 I’m currently learning:
-    Python, Java, SQL, and possibly some front-end languages as well.
+    Python, Java, SQL, and currently working with ReactJS.
 - 📫 How to reach me:
     Messaging me at @nitinenj works great!
 - ⚡ Fun fact: I'm currently working on a project that involves using Spotify API!
