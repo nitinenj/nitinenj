@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nitinenj
 - 👀 I’m interested in:
-    Broadening my Computer Science knowledge. I want to dabble in Foundational Programming,
+    Broadening my Computer Science knowledge. I want to dive in Foundational Programming,
     Cybersecurity, Machine Learning, and explore the massive ocean of Computer Science.
 - 🌱 I’m currently learning:
     Python, Java, SQL, and currently working with ReactJS.
