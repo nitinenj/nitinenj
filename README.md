@@ -3,10 +3,11 @@
     Broadening my Computer Science knowledge. I want to dive in Foundational Programming,
     Cybersecurity, Machine Learning, and explore the massive ocean of Computer Science.
 - 🌱 I’m currently learning:
-    Python, Java, SQL, and currently working with ReactJS.
+    Python, Java, SQL, JavaScript, React, and currently learning C and AVR Assembly.
 - 📫 How to reach me:
     Messaging me at @nitinenj works great!
-- ⚡ Fun fact: I'm currently working on a project that involves using Spotify API!
+    Email me at: nitin.enjamuri@gmail.com
+- ⚡ Fun fact: I'm also taking a General Business minor!
 
 <!---
 nitinenj/nitinenj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
